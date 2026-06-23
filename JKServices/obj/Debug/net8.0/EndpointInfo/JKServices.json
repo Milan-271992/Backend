@@ -1,0 +1,141 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "JKServices",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Master/GetIncentiveMaster": {
+      "get": {
+        "tags": [
+          "Master"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Master/AddEditIncentiveMaster": {
+      "post": {
+        "tags": [
+          "Master"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncentiveMasterModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncentiveMasterModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncentiveMasterModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Master/DeleteIncentiveMaster": {
+      "post": {
+        "tags": [
+          "Master"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "IncentiveMasterModel": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "OrgId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Code": {
+            "type": "string",
+            "nullable": true
+          },
+          "Name": {
+            "type": "string",
+            "nullable": true
+          },
+          "Description": {
+            "type": "string",
+            "nullable": true
+          },
+          "EffectiveFrom": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "EffectiveTo": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "StatusId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "IsActive": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "CreatedOn": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "CreatedBy": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "UpdatedOn": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "UpdatedBy": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

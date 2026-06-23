@@ -1,0 +1,6 @@
+@Core.Insfrastructure_HostAddress = http://localhost:5058
+
+GET {{Core.Insfrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

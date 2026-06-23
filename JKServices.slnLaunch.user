@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "JKServices\\JKServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiGateways.Web\\ApiGateways.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "CommonMessage": [
+    {
+      "Key": "Department",
+      "En": "Department",
+      "Hi": "विभाग"
+    },
+    {
+      "Key": "Section",
+      "En": "Section",
+      "Hi": "अनुभाग"
+    },
+    {
+      "Key": "LocationType",
+      "En": "LocationType",
+      "Hi": "स्थान प्रकार"
+    },
+    {
+      "Key": "ServiceRequestCategory",
+      "En": "Service Request Category",
+      "Hi": "सेवा अनुरोध श्रेणी"
+    },
+    {
+      "Key": "ServiceProjectMaster",
+      "En": "Service Project Master",
+      "Hi": "सेवा परियोजना मास्टर"
+    },
+    {
+      "Key": "ServiceRequestProcessingRights",
+      "En": "Service Request Processing Rights",
+      "Hi": "सेवा अनुरोध प्रसंस्करण अधिकार"
+    },
+    {
+      "Key": "Office",
+      "En": "Office",
+      "Hi": "कार्यालय"
+    },
+    {
+      "Key": "MapDemap",
+      "En": "MapDemap",
+      "Hi": "मैपडेमैप"
+    },
+    {
+      "Key": "Delegate",
+      "En": "Delegate",
+      "Hi": "प्रतिनिधि"
+    },
+    {
+      "Key": "GrievanceAllocation",
+      "En": "Grievance Allocation",
+      "Hi": "शिकायत आवंटन"
+    },
+    {
+      "Key": "GrievanceAllocationFlow",
+      "En": "Grievance Allocation Flow",
+      "Hi": "शिकायत आवंटन प्रवाह"
+    },
+    {
+      "Key": "Jansunwai",
+      "En": "Jansunwai",
+      "Hi": "जनसुनवाई."
+    },
+    {
+      "Key": "Document",
+      "En": "Document",
+      "Hi": "दस्तावेज़."
+    },
+    {
+      "Key": "Panel",
+      "En": "Panel",
+      "Hi": "पैनल."
+    },
+    {
+      "Key": "Country",
+      "En": "Country",
+      "Hi": "देश."
+    },
+    {
+      "Key": "State",
+      "En": "State",
+      "Hi": "राज्य."
+    },
+    {
+      "Key": "Location",
+      "En": "Location",
+      "Hi": "जगह."
+    },
+    {
+      "Key": "ExtendedLocationType",
+      "En": "ExtendedLocationType",
+      "Hi": "विस्तारित स्थान प्रकार."
+    },
+    {
+      "Key": "Role",
+      "En": "Role",
+      "Hi": "भूमिका."
+    },
+    {
+      "Key": "MenuObjects",
+      "En": "MenuObjects",
+      "Hi": "मेनूऑब्जेक्ट्स."
+    },
+    {
+      "Key": "MenuRightsObjects",
+      "En": "MenuRightsObjects",
+      "Hi": "मेनूराइट्सऑब्जेक्ट्स."
+    },
+    {
+      "Key": "TblMaster",
+      "En": " TblMaster",
+      "Hi": "टीबीएलमास्टर."
+    },
+    {
+      "Key": "ReleaseNote",
+      "En": "ReleaseNote",
+      "Hi": "रिलीज नोट्स."
+    },
+    {
+      "Key": "NoticeBoard",
+      "En": "NoticeBoard",
+      "Hi": "सूचना पट्ट."
+    }
+
+
+  ] 
+}

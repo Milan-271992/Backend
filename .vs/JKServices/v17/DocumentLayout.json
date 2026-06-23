@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JKServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303CAFBA-4C72-46DC-9BAB-F6A4D8384023}|ApiGateways.Web\\ApiGateways.Web.csproj|d:\\jkservices\\apigateways.web\\apigateways.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{303CAFBA-4C72-46DC-9BAB-F6A4D8384023}|ApiGateways.Web\\ApiGateways.Web.csproj|solutionrelative:apigateways.web\\apigateways.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEB5F52-2AC7-4FF1-8318-0692BCA3CF5C}|JKServices\\JKServices.csproj|d:\\jkservices\\jkservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEB5F52-2AC7-4FF1-8318-0692BCA3CF5C}|JKServices\\JKServices.csproj|solutionrelative:jkservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEB5F52-2AC7-4FF1-8318-0692BCA3CF5C}|JKServices\\JKServices.csproj|d:\\jkservices\\jkservices\\jkservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FEB5F52-2AC7-4FF1-8318-0692BCA3CF5C}|JKServices\\JKServices.csproj|solutionrelative:jkservices\\jkservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiGateways.Web",
+              "DocumentMoniker": "D:\\JKServices\\ApiGateways.Web\\ApiGateways.Web.csproj",
+              "RelativeDocumentMoniker": "ApiGateways.Web\\ApiGateways.Web.csproj",
+              "ToolTip": "D:\\JKServices\\ApiGateways.Web\\ApiGateways.Web.csproj",
+              "RelativeToolTip": "ApiGateways.Web\\ApiGateways.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T11:46:04.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JKServices\\JKServices\\Program.cs",
+              "RelativeDocumentMoniker": "JKServices\\Program.cs",
+              "ToolTip": "D:\\JKServices\\JKServices\\Program.cs",
+              "RelativeToolTip": "JKServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:44:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JKServices",
+              "DocumentMoniker": "D:\\JKServices\\JKServices\\JKServices.csproj",
+              "RelativeDocumentMoniker": "JKServices\\JKServices.csproj",
+              "ToolTip": "D:\\JKServices\\JKServices\\JKServices.csproj",
+              "RelativeToolTip": "JKServices\\JKServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T11:44:42.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

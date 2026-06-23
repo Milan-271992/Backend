@@ -1,0 +1,344 @@
+{
+  "CommonMessage": [
+    {
+      "Key": "SavedSuccessfully",
+      "En": "Saved Successfully.",
+      "Hi": "सफलतापूर्वक"
+    },
+    {
+      "Key": "RecordAlreadyExists",
+      "En": "Record Already Exists.",
+      "Hi": "रिकॉर्ड पहले से मौजूद है!"
+    },
+    {
+      "Key": "RecordsFound",
+      "En": "Record Found.",
+      "Hi": "सूचि प्राप्त की गई है!!"
+    },
+    {
+      "Key": "NoRecordFound",
+      "En": "No Record Found.",
+      "Hi": "कोई रिकॉर्ड नहीं मिला!"
+    },
+    {
+      "Key": "PleaseSelectServiceRequestProjectFirst",
+      "En": "Please Select Service Request Project First.",
+      "Hi": "कृपया पहले सेवा अनुरोध परियोजना का चयन करें।"
+    },
+    {
+      "Key": "Nodal officer not found for this selected project",
+      "En": "Nodal officer not found for this selected project.",
+      "Hi": "इस चयनित प्रोजेक्ट के लिए नोडल अधिकारी नहीं मिला।"
+    },
+    {
+      "Key": "PleaseEnterCategoryNameFirst",
+      "En": "Please Enter Category Name First.",
+      "Hi": "कृपया पहले श्रेणी का नाम दर्ज करें।"
+    },
+    {
+      "Key": "PleaseSelectNodalOfficerFirst",
+      "En": "Please Select Nodal Officer First.",
+      "Hi": "कृपया पहले नोडल अधिकारी का चयन करें।"
+    },
+    {
+      "Key": "NodalOfficerNotFound",
+      "En": "Nodal Officer Not Found.",
+      "Hi": "नोडल अधिकारी नहीं मिले।"
+    },
+    {
+      "Key": "ModelError",
+      "En": "Invalid Input Value.",
+      "Hi": "अमान्य इनपुट।"
+    },
+    {
+      "Key": "SorryAnErrorOccuredWhileProcessingYourRequest",
+      "En": "Sorry ! An error occured while processing your request.",
+      "Hi": "क्षमा मांगना ! आपके अनुरोध को संसाधित करते समय एक त्रुटि उत्पन्न हुई.।"
+    },
+    {
+      "Key": "RecordUpdatedSuccessfully",
+      "En": "Record updated successfully.",
+      "Hi": "रिकॉर्ड सफलतापूर्वक अपडेट किया गया।"
+    },
+    {
+      "Key": "NewRecordSavedSuccessfully",
+      "En": "New Record Saved Successfully.",
+      "Hi": "नया रिकॉर्ड सफलतापूर्वक सहेजा गया।"
+    },
+    {
+      "Key": "RecordDoesNotExist",
+      "En": "Record Does Not Exist.",
+      "Hi": "रिकॉर्ड मौजूद नहीं है!"
+    },
+    {
+      "Key": "SelectedRecordChangeStatusSuccessfully",
+      "En": "Selected Record Change StatusSuccessfully.",
+      "Hi": "चयनित रिकॉर्ड की स्थिति सफलतापूर्वक बदल गई है!"
+    },
+    {
+      "Key": "InvalidParametersOrDataDoesNotExistForRequestedParameters",
+      "En": "Invalid Parameters Or Data Does Not Exist For Requested Parameters.",
+      "Hi": "अनुरोधित पैरामीटर के लिए अमान्य पैरामीटर या डेटा मौजूद नहीं है!"
+    },
+    {
+      "Key": "PleaseEnterProjectNameFirst",
+      "En": "Please Enter Project Name First.",
+      "Hi": "कृपया पहले प्रोजेक्ट का नाम दर्ज करें!"
+    },
+    {
+      "Key": "PleaseSelectRoleFirst",
+      "En": "Please Select Role First.",
+      "Hi": "कृपया पहले भूमिका चुनें!"
+    },
+    {
+      "Key": "PleaseSelectDepartmentFirst",
+      "En": "Please Select Department First.",
+      "Hi": "कृपया पहले विभाग का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectOfficerLevelFirst",
+      "En": "Please Select Officer Level First.",
+      "Hi": "कृपया पहले अधिकारी स्तर का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectOfficerFirst",
+      "En": "Please Select Officer First.",
+      "Hi": "कृपया पहले अधिकारी का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectOffice",
+      "En": "Please Select Office .",
+      "Hi": "कृपया कार्यालय का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectOfficenamehindi",
+      "En": "Please Select Office hindi.",
+      "Hi": "कृपया ऑफिस हिंदी का चयन करें।!"
+    },
+    {
+      "Key": "PleaseSelectOfficetypename",
+      "En": "Please Select Office type name .",
+      "Hi": "कृपया कार्यालय प्रकार का नाम चुनें!"
+    },
+    {
+      "Key": "PleaseSelectOfficetypenamehindi",
+      "En": "Please Select Office type hindi.",
+      "Hi": "कृपया कार्यालय प्रकार हिंदी का चयन करें।!"
+    },
+    {
+      "Key": "PleaseSelectDepartment",
+      "En": "Please Select Department.",
+      "Hi": "कृपया विभाग का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectLocation",
+      "En": "Please Select Location.",
+      "Hi": "कृपया स्थान चुनें!"
+    },
+    {
+      "Key": "PleaseSelectDesignation",
+      "En": "Please Select Designation.",
+      "Hi": "कृपया पदनाम का चयन करें!"
+    },
+    {
+      "Key": "PleaseSelectPanelname",
+      "En": "Please Select Panel.",
+      "Hi": "कृपया पैनल का चयन करें"
+    },
+    {
+      "Key": "PleaseSelectSSOId",
+      "En": "Please Select SSOID.",
+      "Hi": "कृपया SSOID चुनें.!"
+    },
+    {
+      "Key": "PleaseSelectUser",
+      "En": "Please Select User.",
+      "Hi": "कृपया उपयोगकर्ता का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectLanguage",
+      "En": "Please Select Language.",
+      "Hi": "कृपया भाषा चुनें.!"
+    },
+    {
+      "Key": "PleaseSelectSectionName",
+      "En": "Please Select Section Name.",
+      "Hi": "कृपया उपयोगकर्ता का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectSectionNameHindi",
+      "En": "Please Select Language.",
+      "Hi": "कृपया भाषा चुनें!"
+    },
+    {
+      "Key": "PleaseSelectuser",
+      "En": "Please Select user.",
+      "Hi": "कृपया भाषा चुनें!"
+    },
+    {
+      "Key": "PleaseSelectDelegateuser",
+      "En": "Please Select Delegate user.",
+      "Hi": "कृपया भाषा चुनें!"
+    },
+    {
+      "Key": "RecordDeleted",
+      "En": "Record Deleted .",
+      "Hi": "रिकॉर्ड हटा दिया गया."
+    },
+    {
+      "Key": "PleaseSelectCategory",
+      "En": "Please Select Category .",
+      "Hi": "कृपया श्रेणी चुनें."
+    },
+    {
+      "Key": "PleaseSelectAuthority",
+      "En": "Please Select Authority .",
+      "Hi": "कृपया प्राधिकरण का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectSubject",
+      "En": "Please Select Subject .",
+      "Hi": "कृपया विषय चुनें."
+    },
+    {
+      "Key": "PleaseSelectLevel",
+      "En": "Please Select Level .",
+      "Hi": "कृपया स्तर चुनें."
+    },
+    {
+      "Key": "PleaseSelectUserProfile",
+      "En": "Please Select User Profile .",
+      "Hi": "कृपया उपयोगकर्ता प्रोफ़ाइल चुनें."
+    },
+    {
+      "Key": "PleaseSelectGrievanceLevel",
+      "En": "Please Select grievance level .",
+      "Hi": "कृपया शिकायत स्तर का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectCurrentStatus",
+      "En": "Please Select current status .",
+      "Hi": "कृपया वर्तमान स्थिति का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectAvailableAction",
+      "En": "Please Select available action.",
+      "Hi": "कृपया उपलब्ध कार्रवाई का चयन करें."
+    },
+    {
+      "Key": "PleaseSelectMeetingDate",
+      "En": "Please Select meeting date.",
+      "Hi": "कृपया मीटिंग की तारीख चुनें."
+    },
+    {
+      "Key": "PleaseSelectLocationLevel",
+      "En": "Please Select locationlevel.",
+      "Hi": "कृपया स्थानस्तर चुनें."
+    },
+    {
+      "Key": "PleaseSelectDistrict",
+      "En": "Please Select district.",
+      "Hi": "कृपया जिला चुनें."
+    },
+    {
+      "Key": "PleaseSelectTitle",
+      "En": "Please Select title.",
+      "Hi": "कृपया शीर्षक चुनें."
+    },
+    {
+      "Key": "PleaseSelectStartDate",
+      "En": "Please Select start date.",
+      "Hi": "कृपया आरंभ तिथि चुनें."
+    },
+    {
+      "Key": "PleaseSelectEndDate",
+      "En": "Please Select end date.",
+      "Hi": "कृपया अंतिम तिथि चुनें."
+    },
+    {
+      "Key": "PleaseSelectPanel",
+      "En": "Please Select panel .",
+      "Hi": "कृपया अंतिम तिथि चुनें."
+    },
+    {
+      "Key": "PleaseSelectPanelNameHinid",
+      "En": "Please Select panel name hindi .",
+      "Hi": "कृपया अंतिम तिथि चुनें."
+    },
+    {
+      "Key": "PleaseSelectOfficerName",
+      "En": "Please Select officer name .",
+      "Hi": "कृपया अधिकारी का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectCountryName",
+      "En": "Please Select country name .",
+      "Hi": "कृपया देश का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectCountryNameRegional",
+      "En": "Please Select country name regional .",
+      "Hi": "कृपया देश का नाम क्षेत्रीय चुनें."
+    },
+    {
+      "Key": "PleaseSelectStateName",
+      "En": "Please Select state name.",
+      "Hi": "कृपया राज्य का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectStateNameReginal",
+      "En": "Please Select state name regional.",
+      "Hi": "कृपया राज्य का नाम क्षेत्रीय चुनें."
+    },
+    {
+      "Key": "PleaseSelectLocationTypeName",
+      "En": "Please select location type name.",
+      "Hi": "कृपया स्थान प्रकार का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectLocationTypeNameRegional",
+      "En": "Please select location type name regional.",
+      "Hi": "कृपया स्थान प्रकार का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectRoleName",
+      "En": "Please select role name .",
+      "Hi": "कृपया भूमिका का नाम चुनें."
+    },
+    {
+      "Key": "PleaseSelectRoleNameHindi",
+      "En": "Please select role name hindi .",
+      "Hi": "कृपया भूमिका का नाम हिंदी चुनें."
+    },
+    {
+      "Key": "PleaseSelectParentDeptId",
+      "En": "Department and Parent Department can not be same .",
+      "Hi": "विभाग और मूल विभाग एक नहीं हो सकते."
+    },
+    {
+      "Key": "PleaseSelectVersion",
+      "En": "Please Select  Version .",
+      "Hi": "कृपया संस्करण चुनें."
+    },
+    {
+      "Key": "PleaseSelectDescription",
+      "En": "Please Select  Description .",
+      "Hi": "कृपया विवरण चुनें."
+    },
+    {
+      "Key": "PleaseSelectPublishDate",
+      "En": "Please Select Publish Date .",
+      "Hi": "कृपया प्रकाशन तिथि चुनें."
+    },
+    {
+      "Key": "PleaseSelectValiditydate",
+      "En": "Please Select Validity Date .",
+      "Hi": "कृपया वैधता तिथि चुनें."
+    }
+
+
+
+
+  ]
+}  
+

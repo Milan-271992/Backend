@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "JkTyre.Controllers.MasterController",
+    "Method": "AddEditIncentiveMaster",
+    "RelativePath": "api/Master/AddEditIncentiveMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mdm",
+        "Type": "JkTyre.Models.IncentiveMasterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JkTyre.Controllers.MasterController",
+    "Method": "DeleteIncentiveMaster",
+    "RelativePath": "api/Master/DeleteIncentiveMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JkTyre.Controllers.MasterController",
+    "Method": "GetIncentiveMaster",
+    "RelativePath": "api/Master/GetIncentiveMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

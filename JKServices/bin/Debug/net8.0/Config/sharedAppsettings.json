@@ -1,0 +1,39 @@
+//{
+//    "Logging": {
+//        "LogLevel": {
+//            "Default": "Information",
+//            "Microsoft.AspNetCore": "Warning"
+//        }
+//    },
+//    "AllowedHosts": "*",
+//    "ASPNETCORE_ENVIRONMENT": "Development",
+//    "FailedLoginAttempts": "5",
+//    "systemConfigFileNameWithPath": "appsettings",
+//    "ServiceURL": {
+//        //  "UPM": "https://localhost:7177/api/"
+//    },
+//    "ConnectionStrings": {
+//        "JkServicesConnectionString": "server=193.16.100.186;User Id=KSBCL;password=KSBCL##123;database=KSBCL;Persist Security Info=True; Allow User Variables=True; convert zero datetime=True;sslmode=none;"
+
+//    }
+//}
+
+
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    },
+    "AllowedHosts": "*",
+    "ASPNETCORE_ENVIRONMENT": "Development",
+    "FailedLoginAttempts": "5",
+    "systemConfigFileNameWithPath": "appsettings",
+    "ServiceURL": {
+        "UPM": "https://localhost:7177/api/"
+    },
+    "ConnectionStrings": {
+        "JkServicesConnectionString": "server=193.16.100.186;User Id=KSBCL;password=KSBCL##123;database=KSBCL;Persist Security Info=True;Allow User Variables=True;convert zero datetime=True;sslmode=none;"
+    }
+}
