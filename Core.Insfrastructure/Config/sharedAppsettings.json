@@ -13,7 +13,7 @@
 //        //  "UPM": "https://localhost:7177/api/"
 //    },
 //    "ConnectionStrings": {
-//        "JkServicesConnectionString": "server=193.16.100.186;User Id=KSBCL;password=KSBCL##123;database=KSBCL;Persist Security Info=True; Allow User Variables=True; convert zero datetime=True;sslmode=none;"
+//        "JkServicesConnectionString": "server=localhost;User Id=test;password=test##123;database=test;Persist Security Info=True; Allow User Variables=True; convert zero datetime=True;sslmode=none;"
 
 //    }
 //}
@@ -34,6 +34,6 @@
         "UPM": "https://localhost:7177/api/"
     },
     "ConnectionStrings": {
-        "JkServicesConnectionString": "server=193.16.100.186;User Id=KSBCL;password=KSBCL##123;database=KSBCL;Persist Security Info=True;Allow User Variables=True;convert zero datetime=True;sslmode=none;"
+        "JkServicesConnectionString": "server=localhost;User Id=test;password=test##123;database=KSBCL;Persist Security Info=True;Allow User Variables=True;convert zero datetime=True;sslmode=none;"
     }
 }
